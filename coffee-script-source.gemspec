@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "coffee-script-source"
-  spec.version       = "2.1.1"
+  spec.version       = "2.6.1"
   spec.authors       = ["Jeremy Ashkenas"]
   spec.summary       = "The CoffeeScript Compiler"
   spec.description   = "CoffeeScript is a little language that compiles into
